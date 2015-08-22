@@ -9,3 +9,7 @@
 function factory(){
 
 }
+
+function factory2(){
+    
+}
